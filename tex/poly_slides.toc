@@ -1,0 +1,4 @@
+\beamer@sectionintoc {1}{What is labor economics?}{3}{0}{1}
+\beamer@sectionintoc {2}{Claudia Goldin}{6}{0}{2}
+\beamer@sectionintoc {3}{Data work}{10}{0}{3}
+\beamer@sectionintoc {4}{Tradeoffs at work}{12}{0}{4}

@@ -9,4 +9,4 @@ This repo contains materials for a 2023 guest lecture for Baltimore Polytechnic'
 3. Introduction to working with data
 4. (More) discussion of Goldin
 
-1,2, and 4 follow from the slides, while 3 uses the Jupyter notebook. The notebook can be downloaded and run locally (just reference requirements.txt) or it can be run virtually on [Google Colab](https://www.example.com).
+1,2, and 4 follow from the slides, while 3 uses the Jupyter notebook. The notebook can be downloaded and run locally (just reference requirements.txt) or it can be run virtually on [Google Colab](https://colab.research.google.com/drive/1NH7f65Q2kQUtNeaf-sXADWCAISPKbmnh?usp=sharing).
