@@ -5,7 +5,7 @@
 
 This repo contains materials for a 2023 guest lecture for Baltimore Polytechnic's AP Economics students. The rough outline will be:
 1. Overview of labor economics
-2. DisWork of Claudia Goldin
+2. Work of Claudia Goldin
 3. Working with data
 4. Trade-offs in work decisions (more Goldin)
 
