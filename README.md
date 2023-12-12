@@ -1,6 +1,6 @@
 # Baltimore Polytechnic guest lecture on labor economics
 ### John Green
-### Johns Hokpins Economics
+### Johns Hopkins Economics
 ### Dec 2023
 
 This repo contains materials for a 2023 guest lecture for Baltimore Polytechnic's AP Economics students. The lecture will broadly cover:
