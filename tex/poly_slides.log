@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2023.7.26)  12 DEC 2023 14:27
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2023.7.26)  13 DEC 2023 19:41
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -714,21 +714,21 @@ Dictionary: translator-theorem-dictionary, Language: English
 ] [13
 
 ]
-LaTeX Font Info:    Trying to load font information for TS1+cmss on input line 190.
+LaTeX Font Info:    Trying to load font information for TS1+cmss on input line 193.
  (c:/texlive/2022/texmf-dist/tex/latex/base/ts1cmss.fd
 File: ts1cmss.fd 2022/07/10 v2.5l Standard LaTeX font definitions
 ) [14
 
 ]
-LaTeX Font Info:    Trying to load font information for U+msa on input line 204.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 207.
  (c:/texlive/2022/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 204.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 207.
  (c:/texlive/2022/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-LaTeX Font Info:    Trying to load font information for OT1+mathkerncmss on input line 204.
+LaTeX Font Info:    Trying to load font information for OT1+mathkerncmss on input line 207.
  (c:/texlive/2022/texmf-dist/tex/latex/sansmathaccent/ot1mathkerncmss.fd
 File: ot1mathkerncmss.fd 2020/01/31 Fontinst v1.933 font definitions for OT1/mathkerncmss.
 ) [15
@@ -743,10 +743,10 @@ File: ot1mathkerncmss.fd 2020/01/31 Fontinst v1.933 font definitions for OT1/mat
 <./figs/ushape.png, id=608, 348.30125pt x 237.88875pt>
 File: ./figs/ushape.png Graphic file (type png)
 <use ./figs/ushape.png>
-Package pdftex.def Info: ./figs/ushape.png  used on input line 242.
+Package pdftex.def Info: ./figs/ushape.png  used on input line 245.
 (pdftex.def)             Requested size: 325.00801pt x 221.98924pt.
 
-Overfull \vbox (16.99043pt too high) detected at line 242
+Overfull \vbox (16.99043pt too high) detected at line 245
  []
 
 [19
@@ -755,10 +755,10 @@ Overfull \vbox (16.99043pt too high) detected at line 242
 <./figs/since2000.png, id=641, 445.665pt x 310.15875pt>
 File: ./figs/since2000.png Graphic file (type png)
 <use ./figs/since2000.png>
-Package pdftex.def Info: ./figs/since2000.png  used on input line 247.
+Package pdftex.def Info: ./figs/since2000.png  used on input line 250.
 (pdftex.def)             Requested size: 325.00801pt x 226.19156pt.
 
-Overfull \vbox (21.19275pt too high) detected at line 247
+Overfull \vbox (21.19275pt too high) detected at line 250
  []
 
 [20
@@ -790,7 +790,7 @@ Here is how much of TeX's memory you used:
  1141 hyphenation exceptions out of 8191
  128i,15n,122p,470b,685s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {c:/texlive/2022/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}<c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi10.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfss1095.pfb>
-Output written on poly_slides.pdf (22 pages, 257277 bytes).
+Output written on poly_slides.pdf (22 pages, 257471 bytes).
 PDF statistics:
  776 PDF objects out of 1000 (max. 8388607)
  706 compressed objects within 8 object streams
